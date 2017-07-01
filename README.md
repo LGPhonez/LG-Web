@@ -1,2 +1,4 @@
-# LG-Web
-Setup
+LG-Web
+======
+
+LG-Web test website.
